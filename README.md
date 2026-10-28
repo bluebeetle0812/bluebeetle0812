@@ -1,5 +1,5 @@
 ## Hi there 👋
-Dongguk Univ Student
+Dongguk Univ Student\n
 Currently learning coding basics
 <!--
 **bluebeetle0812/bluebeetle0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
