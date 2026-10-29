@@ -4,7 +4,7 @@ Dongguk Univ Student
 
 Junior / 2003.08.12
 
-
+https://velog.io/@bluebeetle0812/posts
 
 Currently learning coding basics
 <!--
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
