@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Dongguk Univ Student
+Dongguk Univ Student 
+
+Junior / 2003.08.12
+
+
 
 Currently learning coding basics
 <!--
